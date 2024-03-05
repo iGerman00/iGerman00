@@ -21,7 +21,7 @@ Then there's [Buttercup](https://buttercup.igerman.cc), a Chromium extension to 
 
 When I'm not coding, you can find me [producing music](https://open.spotify.com/artist/4hkHAVlTVsZxt1CwaKlNVk?si=LnWiKPJIQcaZW2VMYbU72w), watching hour-long video essays on something absolutely meaningless, or diving into my sound engineering studies. I live by the words "I'd rather write a script to do this than do it manually 50x quicker." My hobbies are like stars in ~~not my~~ Github repositories, this page just isn't enough to list them all. After all, I have bees in my head that tell me what to do at all times 🐝.
 
-## Talk with me 🌐
+## Talk With Me 🌐
 
 I'm flying solo right now, so I'm always open to interesting conversations and opportunities. Got an interesting project and need me? Shoot me a message, I'll see what I can do to help. Or if you just want to talk code, music, or geek out over something random, feel free to reach out, too!  
 I'm mostly available on Discord if you can find me, but I check a lot of other places - check out the sidebar links
