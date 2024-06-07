@@ -25,3 +25,7 @@ When I'm not coding, you can find me [producing music](https://open.spotify.com/
 
 I'm flying solo right now, so I'm always open to interesting conversations and opportunities. Got an interesting project and need me? Shoot me a message, I'll see what I can do to help. Or if you just want to talk code, music, or geek out over something random, feel free to reach out, too!  
 I'm mostly available on Discord if you can find me, but I check a lot of other places - check out the sidebar links
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');]{x0000}$}
