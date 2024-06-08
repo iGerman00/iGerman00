@@ -28,4 +28,5 @@ I'm mostly available on Discord if you can find me, but I check a lot of other p
 
 
 ```math
-&#x5C;ce{\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');]{x0000}$}
+\mmlToken{ms}[fontfamily="pewpew;background:color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');"]{}
+```
