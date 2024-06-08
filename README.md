@@ -27,8 +27,8 @@ I'm flying solo right now, so I'm always open to interesting conversations and o
 I'm mostly available on Discord if you can find me, but I check a lot of other places - check out the sidebar links
 
 
-```math
-\mmlToken{ms}[fontfamily="definitelynotstolen;background:color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg'); pointer-events: none; color:transparent;"]{}
+<!-- ```math
+\vec{align}[fontfamily="definitelynotstolen;background:color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg'); pointer-events: none; color:transparent;"]{}
 
 \mmlToken{ms}[fontfamily="
 definitelynotstolen;
@@ -52,3 +52,4 @@ backdrop-filter: hue-rotate(120deg);
 color:transparent;
 "]{}
 ```
+-->
