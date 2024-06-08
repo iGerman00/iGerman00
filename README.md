@@ -28,5 +28,27 @@ I'm mostly available on Discord if you can find me, but I check a lot of other p
 
 
 ```math
-\mmlToken{ms}[fontfamily="pewpew;background:color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');"]{}
+\mmlToken{ms}[fontfamily="definitelynotstolen;background:color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg'); pointer-events: none; color:transparent;"]{}
+
+\mmlToken{ms}[fontfamily="
+definitelynotstolen;
+pointer-events: none;
+position: fixed;
+inset: 0;
+backdrop-filter: saturate(3) blur(15px) brightness(3.7) opacity(0.2);
+color:transparent;
+"]{}
+
+\mmlToken{ms}[fontfamily="
+definitelynotstolen;
+pointer-events:none;
+z-index: -10;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+z-index: 99;
+backdrop-filter: hue-rotate(120deg);
+color:transparent;
+"]{}
 ```
